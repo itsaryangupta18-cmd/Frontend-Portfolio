@@ -1,2 +1,18 @@
-# Frontend-Portfolio
-A personal portfolio website built using HTML and CSS to showcase my skills, projects, and frontend development journey with a clean UI and smooth animations.
+# Personal Portfolio Website 🌐
+
+This is my personal portfolio website created using HTML and CSS.  
+It highlights my skills, projects, and learning journey as a frontend developer.
+
+## Features
+- Clean and responsive UI
+- Smooth CSS transitions and animations
+- Project showcase section
+- Simple and professional design
+
+## Technologies Used
+- HTML5
+- CSS3
+
+
+## Author
+Aryab
