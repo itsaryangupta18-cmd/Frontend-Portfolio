@@ -15,4 +15,4 @@ It highlights my skills, projects, and learning journey as a frontend developer.
 
 
 ## Author
-Aryab
+Aryan
